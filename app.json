@@ -1,6 +1,6 @@
 {
       "name": "spammerbots",
-      "description": "TELEGRAM FASTEST SPAMMERBOTS, Please give it a star  🥺  🥺  🥺 ",
+      "description": "TELEGRAM FASTEST SPAMMERBOTS, Please give it a star made for Tiger Op 🥺  🥺  🥺 ",
       "logo": "https://telegra.ph/file/0dbf23f76e6c77d037b42.jpg",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "Telethon",
          "Gladiators"
       ],   
-   "repository": "https://t.me/Gladiators_Support",
+   "repository": "https://github.com/aryan8255/spammerbots.git",
    "addons": [
       {
          "options": {
