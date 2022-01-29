@@ -1,9 +1,9 @@
-<!--This Bot is Made By Gladitors Project-->
+<!--This Bot is Made By Gladitors Project For Tiger Op-->
 <p align="center">
   <img src="resources/Gladiators.jpeg" alt="Logo">
 </p>
 
-### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
+### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs Tiger Op sᴘᴀᴍᴍᴇʀʙᴏᴛs
   <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
   [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
   [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
@@ -17,7 +17,7 @@
 
 ### 🎆Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/spammerbots)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryan8255/spammerbots.git)
 
 
 ### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
