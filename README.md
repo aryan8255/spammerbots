@@ -1,6 +1,6 @@
 <!--This Bot is Made By Gladitors Project For Tiger Op-->
 <p align="center">
-  <img src="resources/Gladiators.jpeg" alt="Logo">
+  <img https://telegra.ph/file/5f07437912596f4e812a2.jpg" alt="Logo">
 </p>
 
 ### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs Tiger Op sᴘᴀᴍᴍᴇʀʙᴏᴛs
